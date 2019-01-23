@@ -1,0 +1,35 @@
+/*
+	This css file is made specifically for this folder. All styles that are mentioned in this file are used by the blades on this folder.
+*/
+
+.container {
+	margin: 5rem;
+}
+ .header {
+ 	text-align: center;
+ 	margin-top: 1in;
+ }
+ .header>h3,.header>h4 {
+ 	margin: 0;
+ }
+ .divider {
+ 	border-bottom: 2px solid black;
+ }
+ .heading {
+ 	text-align: right;
+ }
+ .heading>.letter-date {
+ 	margin: 1rem;
+ }
+ .address {
+ 	margin-bottom: 3rem;
+ }
+ .greeting {
+ 	margin-bottom: 1rem;
+ }
+ .clossing, .noted {
+ 	margin-bottom: 3rem;
+ }
+ .clossing,.clossing-signature {
+ 	text-align: right;
+ }
